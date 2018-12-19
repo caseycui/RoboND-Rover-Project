@@ -52,7 +52,7 @@ The obstacles are relatively dark compared to the sand, therefore, I created a c
 #### 1. Populate the `process_image()` function with the appropriate analysis steps to map pixels identifying navigable terrain, obstacles and rock samples into a worldmap.  Run `process_image()` on your test data using the `moviepy` functions provided to create video output of your result. 
 In the process_image() step, the navigable terrain, obstacles and rock samples are mapped into a worldmap.
 
-[video1]: ./output/test_mapping.mp4 
+The video dir is:  ./output/test_mapping.mp4 
 
 ### Autonomous Navigation and Mapping
 
