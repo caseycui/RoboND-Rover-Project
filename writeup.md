@@ -27,7 +27,6 @@
 [image3]: ./calibration_images/example_rock1.jpg 
 [image4]: ./calibration_images/example_edge.jpg 
 [image5]: ./calibration_images/example_obs1.jpg 
-[video1]: ./output/test_mapping.mp4 
 
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/916/view) Points
@@ -53,7 +52,7 @@ The obstacles are relatively dark compared to the sand, therefore, I created a c
 #### 1. Populate the `process_image()` function with the appropriate analysis steps to map pixels identifying navigable terrain, obstacles and rock samples into a worldmap.  Run `process_image()` on your test data using the `moviepy` functions provided to create video output of your result. 
 In the process_image() step, the navigable terrain, obstacles and rock samples are mapped into a worldmap.
 
-![alt text][video1]
+[video1]: ./output/test_mapping.mp4 
 
 ### Autonomous Navigation and Mapping
 
